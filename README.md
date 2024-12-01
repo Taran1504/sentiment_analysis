@@ -26,21 +26,21 @@ This repository contains a machine learning project focused on performing sentim
 
 ## Setup Instructions
 
-1. **Clone the Repository**
+1. **Clone the Repository**  
    ```bash
    git clone https://github.com/Taran1504/sentiment_analysis.git
    ```
-2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**  
    ```bash
    cd sentiment_analysis
    ```
-3.**Install Dependencies Ensure you have Python installed. Install the required packages using**
+3.**Install Dependencies Ensure you have Python installed. Install the required packages using**  
   ```bash
-    pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
-4.**Run the Application Execute the main script to train and test the sentiment analysis model**
+4.**Run the Application Execute the main script to train and test the sentiment analysis model**  
   ```bash
-    python main.py
+  python main.py
   ```
 
 ---
