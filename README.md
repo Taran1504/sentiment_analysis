@@ -35,27 +35,27 @@ This repository contains a machine learning project focused on performing sentim
    cd sentiment_analysis
    ```
 3.**Install Dependencies Ensure you have Python installed. Install the required packages using**
-```bash
-  pip install -r requirements.txt
-```
+  ```bash
+    pip install -r requirements.txt
+  ```
 4.**Run the Application Execute the main script to train and test the sentiment analysis model**
-```bash
-  python main.py
-```
+  ```bash
+    python main.py
+  ```
 
 ---
 
 ## Usage
 
-1.Prepare Your Dataset:
-  Place your dataset in the data/ directory.
-  Update the script to point to your dataset file.
-2.Customize Preprocessing:
-  Modify preprocessing steps (e.g., stemming, lemmatization) in the scripts/preprocessing.py file.
-3.Train and Evaluate Models:
-  Train the model using your data by running main.py.
-4.View Results:
-  The output will include metrics like accuracy, precision, recall, and a confusion matrix.
+1.Prepare Your Dataset:  
+  Place your dataset in the data/ directory.  
+  Update the script to point to your dataset file.  
+2.Customize Preprocessing:  
+  Modify preprocessing steps (e.g., stemming, lemmatization) in the scripts/preprocessing.py file.  
+3.Train and Evaluate Models:  
+  Train the model using your data by running main.py.  
+4.View Results:  
+  The output will include metrics like accuracy, precision, recall, and a confusion matrix.  
 
 ---
 
